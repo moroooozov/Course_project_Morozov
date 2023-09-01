@@ -1,0 +1,72 @@
+<--- [ trace ]  --->
+[ 01/09/2023 21:07:29 ][ trace ] bs_tree constructor was called
+[ 01/09/2023 21:07:29 ][ trace ] data_base::add_to_structure method started
+[ 01/09/2023 21:07:29 ][ trace ] data_base::get_new_allocator_for_inner_trees method started
+[ 01/09/2023 21:07:29 ][ trace ] An object of global heap allocator was constructed
+[ 01/09/2023 21:07:29 ][ trace ] data_base::get_new_allocator_for_inner_trees method finished
+[ 01/09/2023 21:07:29 ][ trace ] bs_tree constructor was called
+[ 01/09/2023 21:07:29 ][ trace ] bs_tree::insertion_template_method::insert method started
+[ 01/09/2023 21:07:29 ][ trace ] splay_tree::insertion_splay_tree::after_insert_inner::splay method started
+[ 01/09/2023 21:07:29 ][ trace ] splay_tree::insertion_splay_tree::after_insert_inner::splay method finished
+[ 01/09/2023 21:07:29 ][ trace ] bs_tree::insertion_template_method::insert method finished
+[ 01/09/2023 21:07:29 ][ trace ] data_base::add_to_structure method finished
+[ 01/09/2023 21:07:29 ][ trace ] data_base::add_to_structure method started
+[ 01/09/2023 21:07:29 ][ trace ] data_base::get_new_allocator_for_inner_trees method started
+[ 01/09/2023 21:07:29 ][ trace ] memory_with_boundary_tags allocator was constructed
+[ 01/09/2023 21:07:29 ][ trace ] data_base::get_new_allocator_for_inner_trees method finished
+[ 01/09/2023 21:07:29 ][ trace ] bs_tree constructor was called
+[ 01/09/2023 21:07:29 ][ trace ] bs_tree::insertion_template_method::insert method started
+[ 01/09/2023 21:07:29 ][ trace ] splay_tree::insertion_splay_tree::after_insert_inner::splay method started
+[ 01/09/2023 21:07:29 ][ trace ] splay_tree::insertion_splay_tree::after_insert_inner::splay method finished
+[ 01/09/2023 21:07:29 ][ trace ] bs_tree::insertion_template_method::insert method finished
+[ 01/09/2023 21:07:29 ][ trace ] data_base::add_to_structure method finished
+[ 01/09/2023 21:07:29 ][ trace ] data_base::add_to_structure method started
+[ 01/09/2023 21:07:29 ][ trace ] data_base::find_data_pool method started
+[ 01/09/2023 21:07:29 ][ trace ] bs_tree::finding_template_method::find method started
+[ 01/09/2023 21:07:29 ][ trace ] splay_tree::finding_splay_tree::after_find_inner::splay method started
+[ 01/09/2023 21:07:29 ][ trace ] splay_tree::finding_splay_tree::after_find_inner::splay method finished
+[ 01/09/2023 21:07:29 ][ trace ] bs_tree::finding_template_method::find method finished
+[ 01/09/2023 21:07:29 ][ trace ] data_base::find_data_pool method finished
+[ 01/09/2023 21:07:29 ][ trace ] bs_tree constructor was called
+[ 01/09/2023 21:07:29 ][ trace ] bs_tree::insertion_template_method::insert method started
+[ 01/09/2023 21:07:29 ][ trace ] memory_with_boundary_tags::allocate method execution started
+[ 01/09/2023 21:07:29 ][ information ] Block of size = 72 was allocated. Address: 0x0000000000000000
+[ 01/09/2023 21:07:29 ][ trace ] memory_with_boundary_tags::allocate method execution finished
+[ 01/09/2023 21:07:29 ][ trace ] avl_tree::insertion_avl_tree::after_insert_inner method started
+[ 01/09/2023 21:07:29 ][ trace ] bs_tree::insertion_template_method::insert method finished
+[ 01/09/2023 21:07:29 ][ trace ] data_base::add_to_structure method finished
+[ 01/09/2023 21:07:29 ][ trace ] data_base::add_to_structure method started
+[ 01/09/2023 21:07:29 ][ trace ] data_base::find_data_scheme method started
+[ 01/09/2023 21:07:29 ][ trace ] data_base::find_data_pool method started
+[ 01/09/2023 21:07:29 ][ trace ] bs_tree::finding_template_method::find method started
+[ 01/09/2023 21:07:29 ][ trace ] splay_tree::finding_splay_tree::after_find_inner::splay method started
+[ 01/09/2023 21:07:29 ][ trace ] splay_tree::finding_splay_tree::after_find_inner::splay method finished
+[ 01/09/2023 21:07:29 ][ trace ] bs_tree::finding_template_method::find method finished
+[ 01/09/2023 21:07:29 ][ trace ] data_base::find_data_pool method finished
+[ 01/09/2023 21:07:29 ][ trace ] bs_tree::finding_template_method::find method started
+[ 01/09/2023 21:07:29 ][ trace ] bs_tree::finding_template_method::find method finished
+[ 01/09/2023 21:07:29 ][ trace ] data_base::find_data_scheme method finished
+[ 01/09/2023 21:07:29 ][ trace ] bs_tree constructor was called
+[ 01/09/2023 21:07:29 ][ trace ] bs_tree::insertion_template_method::insert method started
+[ 01/09/2023 21:07:29 ][ trace ] memory_with_boundary_tags::allocate method execution started
+[ 01/09/2023 21:07:29 ][ information ] Block of size = 72 was allocated. Address: 0x0000000000000060
+[ 01/09/2023 21:07:29 ][ trace ] memory_with_boundary_tags::allocate method execution finished
+[ 01/09/2023 21:07:29 ][ trace ] avl_tree::insertion_avl_tree::after_insert_inner method started
+[ 01/09/2023 21:07:29 ][ trace ] bs_tree::insertion_template_method::insert method finished
+[ 01/09/2023 21:07:29 ][ trace ] data_base::add_to_structure method finished
+[ 01/09/2023 21:07:29 ][ trace ] data_base::add_to_structure method started
+[ 01/09/2023 21:07:29 ][ trace ] data_base::find_data_pool method started
+[ 01/09/2023 21:07:29 ][ trace ] bs_tree::finding_template_method::find method started
+[ 01/09/2023 21:07:29 ][ trace ] splay_tree::finding_splay_tree::after_find_inner::splay method started
+[ 01/09/2023 21:07:29 ][ trace ] splay_tree::finding_splay_tree::after_find_inner::splay method finished
+[ 01/09/2023 21:07:29 ][ trace ] bs_tree::finding_template_method::find method finished
+[ 01/09/2023 21:07:29 ][ trace ] data_base::find_data_pool method finished
+[ 01/09/2023 21:07:29 ][ trace ] bs_tree constructor was called
+[ 01/09/2023 21:07:29 ][ trace ] bs_tree::insertion_template_method::insert method started
+[ 01/09/2023 21:07:29 ][ trace ] memory_from_global_heap::allocate method execution started
+[ 01/09/2023 21:07:29 ][ information ] memory block with _size = 72 was allocated successfully
+[ 01/09/2023 21:07:29 ][ debug ] Allocated block address: 0x0000024df81c3d80
+[ 01/09/2023 21:07:29 ][ trace ] memory_from_global_heap::allocate method execution finished
+[ 01/09/2023 21:07:29 ][ trace ] avl_tree::insertion_avl_tree::after_insert_inner method started
+[ 01/09/2023 21:07:29 ][ trace ] bs_tree::insertion_template_method::insert method finished
+[ 01/09/2023 21:07:29 ][ trace ] data_base::add_to_structure method finished
